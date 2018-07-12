@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<GlobalVariableEntities>
+   <description></description>
+   <tag></tag>
+   <GlobalVariableEntity>
+      <description>UAT cloud URL</description>
+      <initValue>' https://engdev.hmedtcloud.com/?pg=Login'</initValue>
+      <name>devPublicCloudUrl</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>5</initValue>
+      <name>MIN_DELAY</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>10</initValue>
+      <name>MED_DELAY</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description></description>
+      <initValue>15</initValue>
+      <name>LONG_DELAY</name>
+   </GlobalVariableEntity>
+   <GlobalVariableEntity>
+      <description>Super Admin URL</description>
+      <initValue>'https://hme-dev-public-cloud-app.azurewebsites.net/admin'</initValue>
+      <name>SuperAdminUrl</name>
+   </GlobalVariableEntity>
+</GlobalVariableEntities>

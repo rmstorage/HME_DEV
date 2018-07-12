@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that public admin is able to view store details page</description>
+   <name>HME-StoreDetailsPage-09</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>e5383b55-cbec-4ff9-87e1-535fc187cfde</testCaseGuid>
+</TestCaseEntity>

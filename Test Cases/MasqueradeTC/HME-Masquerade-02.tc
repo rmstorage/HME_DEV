@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that public admin is able to login as store admin</description>
+   <name>HME-Masquerade-02</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>5fa23d85-219b-4837-9684-f7d1247dcd2f</testCaseGuid>
+</TestCaseEntity>

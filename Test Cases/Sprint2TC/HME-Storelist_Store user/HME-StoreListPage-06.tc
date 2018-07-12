@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that user will be able to navigate to EOS tab</description>
+   <name>HME-StoreListPage-06</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>cef22c42-5289-4643-b60e-f8e2a0fb2ce3</testCaseGuid>
+</TestCaseEntity>

@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<TestCaseEntity>
+   <description>To verify that session time out is maintained properly across the application</description>
+   <name>HME-JWT-04</name>
+   <tag></tag>
+   <comment></comment>
+   <testCaseGuid>bea96938-652f-49fb-8ae2-f854ba4b099c</testCaseGuid>
+</TestCaseEntity>

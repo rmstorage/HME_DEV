@@ -1,0 +1,127 @@
+Suite/Test/Step Name,Browser,Description,Start time,End time,Duration,Status
+RegressionSuite,Chrome 67.0.3396.99,,05-07-2018 20:05,05-07-2018 21:25,1h - 19m - 59.545s,FAILED
+,,,,,,
+Test Cases/TimeZoneTC/HME-Account_Setting-Timezone-04,Chrome 67.0.3396.99,To verify that time zone is displayed in CST in Day summary report,05-07-2018 20:05,05-07-2018 20:08,2m - 51.024s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:05,05-07-2018 20:05,17.405s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:05,05-07-2018 20:05,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:05,05-07-2018 20:08,2m - 32.573s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:08,05-07-2018 20:08,0.003s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:08,05-07-2018 20:08,0.762s,PASSED
+,,,,,,
+Test Cases/TimeZoneTC/HME-Account_Setting-Timezone-05,Chrome 67.0.3396.99,To verify that time zone is displayed in CST in Daypart summary report,05-07-2018 20:08,05-07-2018 20:11,2m - 42.034s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:08,05-07-2018 20:08,4.150s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:08,05-07-2018 20:08,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:08,05-07-2018 20:11,2m - 36.891s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:11,05-07-2018 20:11,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:11,05-07-2018 20:11,0.708s,PASSED
+,,,,,,
+Test Cases/TimeZoneTC/HME-Account_Setting-Timezone-06,Chrome 67.0.3396.99,To verify that time zone is displayed in CST in weekly summary report,05-07-2018 20:11,05-07-2018 20:14,3m - 2.663s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:11,05-07-2018 20:11,3.656s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:11,05-07-2018 20:11,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:11,05-07-2018 20:14,2m - 58.051s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:14,05-07-2018 20:14,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:14,05-07-2018 20:14,0.667s,PASSED
+,,,,,,
+Test Cases/TimeZoneTC/HME-Browser-Timezone-01,Chrome 67.0.3396.99,To verify that time zone is displayed in EST in Day summary report,05-07-2018 20:14,05-07-2018 20:16,2m - 33.044s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:14,05-07-2018 20:14,3.375s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:14,05-07-2018 20:14,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:14,05-07-2018 20:16,2m - 28.653s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:16,05-07-2018 20:16,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:16,05-07-2018 20:16,0.746s,PASSED
+,,,,,,
+Test Cases/TimeZoneTC/HME-Browser-Timezone-02,Chrome 67.0.3396.99,To verify that time zone is displayed in EST in Daypart summary report,05-07-2018 20:16,05-07-2018 20:19,3m - 21.748s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:16,05-07-2018 20:16,3.392s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:16,05-07-2018 20:16,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:16,05-07-2018 20:19,3m - 17.473s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:19,05-07-2018 20:19,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:19,05-07-2018 20:19,0.678s,PASSED
+,,,,,,
+Test Cases/TimeZoneTC/HME-Browser-Timezone-03,Chrome 67.0.3396.99,To verify that time zone is displayed in EST in Weekly summary report.,05-07-2018 20:19,05-07-2018 20:22,2m - 48.690s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:19,05-07-2018 20:20,3.359s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:20,05-07-2018 20:20,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:20,05-07-2018 20:22,2m - 44.478s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:22,05-07-2018 20:22,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:22,05-07-2018 20:22,0.657s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-CreateGroup-04,Chrome 67.0.3396.99,To verify that public admin is able to create a group,05-07-2018 20:22,05-07-2018 20:29,6m - 42.775s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:22,05-07-2018 20:22,3.384s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:22,05-07-2018 20:22,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:22,05-07-2018 20:29,6m - 38.357s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:29,05-07-2018 20:29,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:29,05-07-2018 20:29,0.736s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-CreateGroup-06,Chrome 67.0.3396.99,To verify that public admin is able to create a parent group,05-07-2018 20:29,05-07-2018 20:34,4m - 29.580s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:29,05-07-2018 20:29,3.333s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:29,05-07-2018 20:29,0.001s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:29,05-07-2018 20:33,4m - 25.367s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:33,05-07-2018 20:33,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:33,05-07-2018 20:34,0.658s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-CreateGroup-08,Chrome 67.0.3396.99,To verify that Group names are unique,05-07-2018 20:34,05-07-2018 20:38,4m - 53.635s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:34,05-07-2018 20:34,3.348s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:34,05-07-2018 20:34,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:34,05-07-2018 20:38,4m - 49.376s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:38,05-07-2018 20:38,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:38,05-07-2018 20:38,0.652s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-DeleteGroup-07,Chrome 67.0.3396.99,To verify that public admin is able to delete a group,05-07-2018 20:38,05-07-2018 20:45,6m - 28.532s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:38,05-07-2018 20:38,3.359s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:38,05-07-2018 20:38,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:38,05-07-2018 20:45,6m - 24.051s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:45,05-07-2018 20:45,0.776s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-EditGroup-05,Chrome 67.0.3396.99,To verify that public admin is able to view Manage report groups button,05-07-2018 20:45,05-07-2018 20:51,5m - 56.058s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:45,05-07-2018 20:45,3.418s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:45,05-07-2018 20:45,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:45,05-07-2018 20:51,5m - 51.688s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:51,05-07-2018 20:51,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:51,05-07-2018 20:51,0.656s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-ReportingGroupManagement-03,Chrome 67.0.3396.99,To verify that public admin is able to view Reporting Group Management screen,05-07-2018 20:51,05-07-2018 20:54,2m - 51.404s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:51,05-07-2018 20:51,3.593s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:51,05-07-2018 20:51,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:51,05-07-2018 20:54,2m - 47.001s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:54,05-07-2018 20:54,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:54,05-07-2018 20:54,0.654s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-StoreDetailsPage-09,Chrome 67.0.3396.99,To verify that public admin is able to view store details page,05-07-2018 20:54,05-07-2018 20:59,5m - 14.163s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:54,05-07-2018 20:54,3.554s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:54,05-07-2018 20:54,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:54,05-07-2018 20:59,5m - 9.763s,FAILED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 20:59,05-07-2018 20:59,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 20:59,05-07-2018 20:59,0.639s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-StoreListPage-01,Chrome 67.0.3396.99,To verify that public admin is able to view Manage report groups button,05-07-2018 20:59,05-07-2018 21:01,2m - 9.204s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 20:59,05-07-2018 20:59,3.416s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 20:59,05-07-2018 20:59,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 20:59,05-07-2018 21:01,2m - 4.966s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 21:01,05-07-2018 21:01,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 21:01,05-07-2018 21:01,0.677s,PASSED
+,,,,,,
+Test Cases/CreateGroupTC/HME-StoreListPage-02,Chrome 67.0.3396.99,To verify that Manage Report Groups button is shown based on user's authorization,05-07-2018 21:01,05-07-2018 21:03,2m - 5.033s,FAILED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 21:01,05-07-2018 21:01,3.379s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 21:01,05-07-2018 21:01,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 21:01,05-07-2018 21:03,2m - 0.806s,FAILED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 21:03,05-07-2018 21:03,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 21:03,05-07-2018 21:03,0.683s,PASSED
+,,,,,,
+Test Cases/GoalStatisticsTC/HME-Goal Statistics Report-01,Chrome 67.0.3396.99,To verify that public admin is able to view Goal Statistics Reports screen,05-07-2018 21:03,05-07-2018 21:11,8m - 14.717s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 21:03,05-07-2018 21:03,3.277s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 21:03,05-07-2018 21:03,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 21:03,05-07-2018 21:11,8m - 10.549s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 21:11,05-07-2018 21:11,0.000s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 21:11,05-07-2018 21:11,0.696s,PASSED
+,,,,,,
+Test Cases/GoalStatisticsTC/HME-Goal Statistics Report-03,Chrome 67.0.3396.99,To verify that public admin is able generate Day Goal Report when there is only 2 goal set.,05-07-2018 21:11,05-07-2018 21:18,6m - 46.416s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 21:11,05-07-2018 21:11,3.351s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 21:11,05-07-2018 21:11,0.000s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 21:11,05-07-2018 21:18,6m - 42.142s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 21:18,05-07-2018 21:18,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 21:18,05-07-2018 21:18,0.711s,PASSED
+,,,,,,
+Test Cases/GoalStatisticsTC/HME-Goal Statistics Report-02,Chrome 67.0.3396.99,To verify that public admin is able to generate weekly goal statistics report for selected groups/stores for selected duration,05-07-2018 21:18,05-07-2018 21:25,6m - 46.954s,PASSED
+Start listener action : sampleBeforeTestCase,Chrome 67.0.3396.99,,05-07-2018 21:18,05-07-2018 21:18,3.359s,PASSED
+Statement - TCflag = true,Chrome 67.0.3396.99,,05-07-2018 21:18,05-07-2018 21:18,0.001s,PASSED
+Statement - Try,Chrome 67.0.3396.99,,05-07-2018 21:18,05-07-2018 21:25,6m - 42.682s,PASSED
+Statement - assert TCflag == true,Chrome 67.0.3396.99,,05-07-2018 21:25,05-07-2018 21:25,0.001s,PASSED
+Start listener action : sampleAfterTestCase,Chrome 67.0.3396.99,,05-07-2018 21:25,05-07-2018 21:25,0.675s,PASSED
